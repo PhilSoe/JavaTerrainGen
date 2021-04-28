@@ -7,5 +7,5 @@ Outputted are two files named terrain.png and greyscale.png
 
 Examples Below:
 
-![Example](https://imgur.com/a/OblaX5T.png)
-![Example](https://imgur.com/a/YkBS6xB.png)
+![Example](https://i.imgur.com/fq5RgCI.jpg)
+![Example](https://i.imgur.com/Hbfh8wc.png)
