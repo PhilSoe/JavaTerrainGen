@@ -21,7 +21,7 @@ public class PlaneMap {
      *
      * @param width The number of tiles horizontally >= 2
      * @param height The number of tiles vertically >= 2
-     * @param square_size The side length of an individual square (must be 2n+1)
+     * @param square_size The side length of an individual square (must be 2^n+1)
      */
     public PlaneMap(int width, int height, int square_size){
         this.plane_grid = new Plane[width][height];

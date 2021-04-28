@@ -14,7 +14,7 @@ public class DSAlgorithm {
     /**
      * Calculating a height map for a plane object
      *
-     * @param plane a plane with side length 2n+1
+     * @param plane a plane with side length 2^n+1
      */
     public static void calculateHeightmap(Plane plane) {
         assignRandomValues(plane);
@@ -49,7 +49,7 @@ public class DSAlgorithm {
      *
      * Note: Corners must have been seeded previously
      *
-     * @param plane a plane with side length 2n+1
+     * @param plane a plane with side length 2^n+1
      * @param square_length The length of the subsection of the plane
      *                      (Plane length == square length) on first call
      */
